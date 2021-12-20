@@ -5,13 +5,13 @@ in case you forget it
 
 
 
-## Running Script that generate meaningful password
+## Running Script that generate strong meaningful password 
 `ruby ps_script.rb`
 or 
 `ruby ps_script.rb`
 
 
-## Running Script generate just strong password
+## Running Script that generate just strong password
 `ruby ps_script.rb fast`
 or
 `ruby ps_script.rb f`

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# This class handles automatic partitions on postgres
+# This class handles automatic partitions on 1 million table records on postgres
 
 require 'pg'
 class Partition
